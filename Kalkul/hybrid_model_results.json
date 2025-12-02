@@ -1,0 +1,22 @@
+{
+    "accuracy": 0.9392226501925867,
+    "precision": 0.9392104868164307,
+    "recall": 1.0,
+    "f1_score": 0.9686524420134678,
+    "roc_auc": 0.49375839813088,
+    "confusion_matrix": {
+        "tn": 4,
+        "fp": 1215,
+        "fn": 0,
+        "tp": 18772
+    },
+    "best_parameters": {
+        "weights": {
+            "fuzzy": 0.15,
+            "bayesian": 0.15,
+            "lstm": 0.7
+        },
+        "threshold": 0.06674834010942328
+    },
+    "data_info": {
+        "total_samples": 
