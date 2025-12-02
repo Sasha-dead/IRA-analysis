@@ -1,0 +1,10 @@
+tensorflow
+scikit-fuzzy
+pandas
+numpy
+scikit-learn
+flask
+pgmpy
+deap
+matplotlib
+seaborn
